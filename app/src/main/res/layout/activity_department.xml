@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/AlertDialog.AppCompat.Light"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.fci.myapp_1.Department">
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+
+        android:layout_height="495dp"
+        android:background="@drawable/codeworld"
+        android:orientation="vertical"
+        android:weightSum="1"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <Button
+            android:id="@+id/cst"
+
+            android:layout_width="250dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/cst_b1"
+            android:textAllCaps="false"
+            android:onClick="cstdepartment"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/dnt"
+            android:layout_width="250dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/dnt_b1d"
+            android:textSize="30sp"
+            android:onClick="dntdepartment"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/tct"
+            android:layout_width="250dp"
+            android:layout_height="80dp"
+            android:onClick="tctdepartment"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/tct_b1d"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/codeworld"
+    tools:context="com.example.fci.myapp_1.Elevenbatch_cst">
+
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="-7dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/cstfristshift"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName : Kazi abdullah al Masud\n
+\t\t\tPhone: 01876155755\n
+\t\t\tDep  : C.S.T\n
+\t\t\tShift: 2nd\n
+\t\t\tBatch: Eleven\n
+"
+                android:textColor="#FAFAFA"
+
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/masudb"
+                android:layout_width="244dp"
+                android:layout_height="97dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:onClick="masudcallbtn"
+
+                android:text="" />
+
+            <TextView
+               android:layout_width="match_parent"
+               android:layout_height="15dp"
+               android:background="#FFFFFF"/>
+
+            <TextView
+                android:id="@+id/cstfrisghjtshiftshift"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName : Omar Faruk\n
+\t\t\tPhone: 01881320833\n
+\t\t\tDep  : C.S.T\n
+\t\t\tShift: 2nd\n
+\t\t\tBatch: Eleven\n
+"
+                android:textColor="#FAFAFA"
+
+                android:textSize="20dp" />
+            <Button
+                android:id="@+id/farukb"
+                android:layout_width="244dp"
+                android:layout_height="97dp"
+                android:background="@drawable/callnowbtn"
+                android:text=""
+
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"/>
+            <TextView
+                android:id="@+id/cstfristdshift"
+                android:layout_width="match_parent"
+                android:layout_height="174dp"
+                android:text="\n
+\t\t\tName : Kazi Majharul Islam Soikot\n
+\t\t\tPhone: 01851786118\n
+\t\t\tDep  : C.S.T\n
+\t\t\tShift: 1st\n
+\t\t\tBatch: Eleven\n
+"
+                android:textColor="#FAFAFA"
+
+                android:textSize="20dp" />
+            <Button
+                android:id="@+id/soikotb"
+                android:layout_width="244dp"
+                android:layout_height="97dp"
+                android:background="@drawable/callnowbtn"
+                android:text=""
+
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"/>
+            <TextView
+                android:id="@+id/cstfridfsfdsfstshifstshift"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName : Rifat Bin Halim\n
+\t\t\tPhone: 01836683752\n
+\t\t\t Dep  : C.S.T\n
+\t\t\t Shift: 1st\n
+\t\t\tBatch: Eleven\n
+"
+                android:textColor="#FAFAFA"
+
+                android:textSize="20dp" />
+            <Button
+                android:id="@+id/halimb"
+                android:layout_width="244dp"
+                android:layout_height="97dp"
+                android:background="@drawable/callnowbtn"
+                android:text=""
+
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="15dp"
+                android:background="#FFFFFF"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

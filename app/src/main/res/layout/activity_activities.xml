@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/cs_hw"
+    android:layout_height="match_parent"
+    tools:context="com.example.fci.myapp_1.Activities">
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="8dp"
+        android:background="#6e080808"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/blooddonation"
+                android:layout_width="280dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"
+                android:textColor="#3b0707"
+                android:background="@drawable/butoon_gs"
+                android:fontFamily="serif-monospace"
+                android:onClick="blood"
+                android:text="Blood Donation"
+
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textSize="25sp" />
+            <Button
+            android:id="@+id/scoutb"
+            android:layout_width="280dp"
+            android:layout_height="100dp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+            android:fontFamily="serif-monospace"
+                android:background="@drawable/butoon_gs"
+            android:layout_gravity="center_horizontal"
+
+            android:onClick="scout"
+
+            android:text="Rover Scout"
+
+            android:textSize="30sp" />
+            <Button
+                android:id="@+id/libary"
+                android:layout_width="280dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Library"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:background="@drawable/butoon_gs"
+                android:fontFamily="serif-monospace"
+                android:onClick="libary"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textSize="30sp" />
+            <Button
+                android:id="@+id/industryvisite"
+                android:layout_width="280dp"
+                android:layout_height="100dp"
+
+                android:layout_gravity="center_horizontal"
+                android:text="Industry visit"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:background="@drawable/butoon_gs"
+                android:fontFamily="serif-monospace"
+
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textSize="25sp" />
+            <Button
+                android:id="@+id/studentments"
+                android:layout_width="280dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Students Attactment"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:background="@drawable/butoon_gs"
+                android:fontFamily="serif-monospace"
+                android:onClick="studentattactment"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textSize="30sp" />
+            <Button
+                android:id="@+id/moub"
+                android:layout_width="280dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:text="MOU"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:background="@drawable/butoon_gs"
+                android:fontFamily="serif-monospace"
+                android:onClick="mou"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textSize="30sp" />
+            <Button
+                android:id="@+id/curriculams"
+                android:layout_width="280dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Co Curricular"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:background="@drawable/butoon_gs"
+                android:fontFamily="serif-monospace"
+                android:onClick="curriculam"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textSize="28sp" />
+            <Button
+                android:id="@+id/clubs"
+                android:layout_width="280dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="serif-monospace"
+                android:text="Clubs"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:background="@drawable/butoon_gs"
+                android:onClick="clubs"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textSize="30sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

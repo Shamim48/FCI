@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cs_hw"
+    tools:context="com.example.fci.myapp_1.result">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="495dp"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/academicrslb"
+                android:layout_width="260dp"
+                android:layout_height="100dp"
+                android:background="@drawable/btn"
+                android:textSize="22dp"
+                android:onClick="academicresult"
+                android:fontFamily="serif-monospace"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:text="Academic Result" />
+
+            <Button
+                android:id="@+id/boardresult"
+                android:layout_width="260dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="100dp"
+                android:fontFamily="serif-monospace"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:onClick="boardresult"
+                android:background="@drawable/btn"
+                android:textSize="22dp"
+                android:text="Board Result" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

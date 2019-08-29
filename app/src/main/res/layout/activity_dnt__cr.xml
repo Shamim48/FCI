@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dnt"
+    tools:context="com.example.fci.myapp_1.DNT_CR">
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/elevenb"
+                android:layout_width="250dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/butoon_gs"
+                android:fontFamily="sans-serif"
+                android:lineSpacingExtra="30sp"
+                android:onClick="tendntcr"
+                android:text="10 Batch D.N.T"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:typeface="monospace" />
+            <Button
+                android:id="@+id/elevendntb"
+                android:layout_width="250dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/butoon_gs"
+                android:fontFamily="sans-serif"
+                android:lineSpacingExtra="30sp"
+                android:onClick="elevendnt"
+                android:text="11 Batch D.N.T"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:typeface="monospace" />
+
+            <Button
+                android:id="@+id/tuelveb"
+                android:layout_width="250dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/butoon_gs"
+                android:fontFamily="sans-serif"
+                android:lineSpacingExtra="30sp"
+                android:onClick="dntsec"
+                android:text="12 Batch D.N.T"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:typeface="monospace" />
+
+
+            <Button
+                android:id="@+id/thirtenbh"
+                android:layout_width="250dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/butoon_gs"
+                android:onClick="thirteendnt"
+                android:text="13 Batch D.N.T"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

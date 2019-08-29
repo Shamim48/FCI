@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fci.myapp_1"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.fci.myapp_1.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.fci.myapp_1.Aboutfci" />
+        <activity android:name="com.example.fci.myapp_1.Department" />
+        <activity android:name="com.example.fci.myapp_1.Principal" />
+        <activity android:name="com.example.fci.myapp_1.Teacher" />
+        <activity android:name="com.example.fci.myapp_1.Classct" />
+        <activity android:name="com.example.fci.myapp_1.CSTClasscr" />
+        <activity android:name="com.example.fci.myapp_1.Elevenbatch_cst" />
+        <activity android:name="com.example.fci.myapp_1.Tuelvebatchcst" />
+        <activity android:name="com.example.fci.myapp_1.DNT_CR" />
+        <activity android:name="com.example.fci.myapp_1.ThirteenbatchCST" />
+        <activity android:name="com.example.fci.myapp_1.ElevenDNT" />
+        <activity android:name="com.example.fci.myapp_1.Thirteen_DNT" />
+        <activity android:name="com.example.fci.myapp_1.TCT_CR" />
+        <activity android:name="com.example.fci.myapp_1.First_TCT" />
+        <activity android:name="com.example.fci.myapp_1.Second_TCT" />
+        <activity android:name="com.example.fci.myapp_1.CST_Teacher" />
+        <activity android:name="com.example.fci.myapp_1.DNT_Teacher" />
+        <activity android:name="com.example.fci.myapp_1.TCT_Teacher" />
+        <activity android:name="com.example.fci.myapp_1.RS_Teacher" />
+        <activity android:name="com.example.fci.myapp_1.Staf" />
+        <activity android:name="com.example.fci.myapp_1.Tuelvebatch_DNT" />
+        <activity android:name="com.example.fci.myapp_1.Activities" />
+        <activity android:name="com.example.fci.myapp_1.hostel" />
+        <activity android:name="com.example.fci.myapp_1.contact" />
+        <activity android:name="com.example.fci.myapp_1.result" />
+        <activity android:name="com.example.fci.myapp_1.Campus_map" />
+        <activity android:name="com.example.fci.myapp_1.About_SEIP" />
+        <activity android:name="com.example.fci.myapp_1.About_US" />
+        <activity android:name="com.example.fci.myapp_1.CST_Department" />
+        <activity android:name="com.example.fci.myapp_1.DNT_Department" />
+        <activity android:name="com.example.fci.myapp_1.TCT_Department" />
+        <activity android:name="com.example.fci.myapp_1.Blood_donation" />
+        <activity android:name="com.example.fci.myapp_1.Rubar_Scout" />
+        <activity android:name="com.example.fci.myapp_1.FCI_Libary" />
+        <activity android:name="com.example.fci.myapp_1.Boyes_hostel" />
+        <activity android:name="com.example.fci.myapp_1.Girlshostel" />
+        <activity android:name="com.example.fci.myapp_1.Clubs" />
+        <activity android:name="com.example.fci.myapp_1.Contact_Blood" />
+        <activity android:name="com.example.fci.myapp_1.Tenbatchcst" />
+        <activity android:name="com.example.fci.myapp_1.Tenbatch_DNT" />
+        <activity android:name="com.example.fci.myapp_1.Industry_Visit" />
+        <activity android:name="com.example.fci.myapp_1.Student_attactment" />
+        <activity android:name="com.example.fci.myapp_1.Curriculam" />
+        <activity android:name="com.example.fci.myapp_1.Mou" />
+        <activity android:name="com.example.fci.myapp_1.Routine" />
+        <activity android:name="com.example.fci.myapp_1.Classroutine" />
+        <activity android:name="com.example.fci.myapp_1.Class_routine" />
+        <activity android:name="com.example.fci.myapp_1.Gallary" />
+        <activity android:name="com.example.fci.myapp_1.Contact_SEIP" />
+    </application>
+
+</manifest>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/codeworld"
+    tools:context="com.example.fci.myapp_1.ElevenDNT">
+
+
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20dp"
+                    android:text="\n
+\t\t\tName  :Sanaul Azim Mehedi.\n
+\t\t\tMobile:01851994603.\n
+\t\t\tDept. :D.N.T\n
+\t\t\tShift :1st.\n
+\t\t\tBatch :11
+" />
+
+                <Button
+                    android:id="@+id/mehedicallbtn"
+                    android:layout_width="200dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/callnowbtn"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="#FFFFFF"
+                    android:text="" />
+                <TextView
+                    android:id="@+id/textVrrtyuihghjikmnbbiew"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20dp"
+                    android:text="\n
+\t\t\tName  :Topu Rabbani .\n
+\t\t\tMobile:01751176502.\n
+\t\t\tDept. :D.N.T\n
+\t\t\tShift :1st.\n
+\t\t\tBatch :11
+" />
+
+                <Button
+                    android:id="@+id/topucallbtn"
+                    android:layout_width="200dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/callnowbtn"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/textViefghjh"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="#FFFFFF"
+                    android:text="" />
+                <TextView
+                    android:id="@+id/textVffghfghiew"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20dp"
+                    android:text="\n
+\t\t\tName  :Jamal Uddin Joy.\n
+\t\t\tMobile:01625476051.\n
+\t\t\tDept. :D.N.T\n
+\t\t\tShift :2nd.\n
+\t\t\tBatch :11
+" />
+
+                <Button
+                    android:id="@+id/joycallbtn"
+                    android:layout_width="200dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/callnowbtn"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/textViefghjklu"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="#FFFFFF"
+                    android:text="" />
+                <TextView
+                    android:id="@+id/textVihjkkliew"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20dp"
+                    android:text="\n
+\t\t\tName  :Majedul Islam Shihab .\n
+\t\t\tMobile:01627683124.\n
+\t\t\tDept. :D.N.T\n
+\t\t\tShift :2nd.\n
+\t\t\tBatch :11
+" />
+
+                <Button
+                    android:id="@+id/shihabcallbtn"
+                    android:layout_width="200dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/callnowbtn"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/textViewhfghfji"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="#FFFFFF"
+                    android:text="" />
+            </LinearLayout>
+        </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cs_hw"
+    tools:context="com.example.fci.myapp_1.ThirteenbatchCST">
+    <ScrollView
+
+        android:layout_width="fill_parent"
+        android:layout_height="495dp"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:text="\n
+\t\t\tName  :Md. Abu Taleb.\n
+\t\t\tMobile:01995877197.\n
+\t\t\tDept. :C.S.T\n
+\t\t\tShift :1st.\n
+\t\t\tBatch :13
+" />
+
+            <Button
+                android:id="@+id/talebcallb"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <TextView
+                android:id="@+id/textVsdfsafrfw4325iew"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:text="\n
+\t\t\tName  :Aysha AkterJulie.\n
+\t\t\tMobile:\n
+\t\t\tDept  :C.S.T\n
+\t\t\tShift :1st.\n
+\t\t\tBatch :13
+
+" />
+
+            <TextView
+                android:id="@+id/shdbfasher873472576009976"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <TextView
+                android:id="@+id/textVsdfasdfasiew"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:text="  \n
+\t\t\tName  :Kazi Sufian.\n
+\t\t\tMobile:01619241328\n
+\t\t\tDept  :C.S.T\n
+\t\t\tShift :2nd\n
+\t\t\tBatch :13
+" />
+
+            <Button
+                android:id="@+id/sufiancallb"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/hshadfhsgd436685"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <TextView
+                android:id="@+id/asdfsdfnkur4333"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:text="\n
+\t\t\tName  :Nijam Uddin.\n
+\t\t\tMobile:01835006682\n
+\t\t\tDept  :C.S.T\n
+\t\t\tShift :2nd.\n
+\t\t\tBatch :13\n
+" />
+
+            <Button
+                android:id="@+id/nijamcallb"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView22345464"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <TextView
+                android:id="@+id/textVie3245632456w"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:text="\n
+\t\t\tName :Fatema Akter.\n
+\t\t\tDept.:C.S.T\n
+\t\t\tShift:2nd.\n
+\t\t\tBatch:13
+" />
+
+            <TextView
+                android:id="@+id/textView4572568352344"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

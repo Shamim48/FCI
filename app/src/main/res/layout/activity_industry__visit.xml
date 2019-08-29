@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="#0b0b0b"
+    tools:context="com.example.fci.myapp_1.Industry_Visit">
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+
+            <ImageView
+                android:id="@+id/imagdfdgdfgeView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/inst1"
+                android:layout_weight="0.15" />
+            <ImageView
+                android:id="@+id/imakldfkdjlgeView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/inst2"
+                android:layout_weight="0.15" />
+
+            <TextView
+                android:id="@+id/texgaffsdjkfdghdktVaaa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#1D3458"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:text="\nকারিগরি দক্ষতা  অর্জনের জন্য  আমাদে FCI এর শিক্ষার্থী দের প্রতি বছর বিভিন্ন Industry visit করানো হয় ।" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</LinearLayout>

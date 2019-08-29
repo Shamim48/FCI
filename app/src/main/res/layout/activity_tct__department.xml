@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/dnttctui"
+    android:layout_height="match_parent"
+    tools:context="com.example.fci.myapp_1.TCT_Department">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="8dp"
+        android:background="#56000000"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="match_parent"
+                android:layout_height="255dp"
+                app:srcCompat="@drawable/tct_img" />
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#1D3458"
+                android:textSize="28dp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:fontFamily="sans-serif-condensed"
+                android:text="Telecommunication Technology" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:textSize="21dp"
+                android:text="
+  বাংলাদেশ সরকারের বিশেষায়িত প্রতিষ্ঠান ফেনী কম্পিউটার ইন্সটিটিউটে টেলিকমিউনিকেশন টেকনোলোজি নামের এক নতুন টেকনোলোজি রয়েছে যা বাংলাদেশে সম্পূর্ণ নতুন।প্রতি বছর এই টেকনোলোজি থেকে ২ শিফটে প্রায় ৬০ টি করে  ১২০  জন ডিপ্লোমা প্রকৌশলী পড়াশুনা শেষ করে কর্ম ক্ষেত্রে যোগ দিচ্ছে।ফেনী কম্পিউটার ইনস্টিটিউটে মোট তিনটি ডিপার্টমেন্টের মধ্যে টেলিকমিনিকেশন টেকনোলোজি অন্যতম একটি । এটি মূলত ইলেক্ট্রনিক্সের একটি অংশ। টেলিকমিনিকেশন টেকনোলোজি মূলত যোগাযোগকে সহজ এবং দ্রুত করার জন্য উদ্ভব। টেলিকমিনিকেশন টেকনোলোজি সারা দেশে ডিপ্লোমা পর্যায়ে  মাত্র ৪ জায়গায়  আছে।ফেনী কম্পিউটার ইনস্টিটিউটে  ২০১৬ সাল থেকে এটি চালু হয়। এটি একটি নতুন টেকনোলজি  বিধায় অনেকের মাঝে ভ্রান্ত ধারনা এই টেকনোলজিকে নিয়ে।অনেকে ভাবে এই টেকনোলজি থেকে ডিপ্লোমা পড়ে B.S.C নেই অথবা চাকুরী নেই। সেই দিক দিয়ে এটি খুবই কার্যোপযোগী। এখান থেকে পড়ে আমরা  বি.এস.সি সহ পেতে পারি ভালো মানের চাকরী।টেলিকমিনিকেশন টেকনোলোজি IT সেক্টরকে আরো উন্নত করছে।
+" />
+
+
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="22dp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:background="#1D3458"
+                android:fontFamily="sans-serif-condensed"
+                android:text="\n
+ টেলিকমিনিকেশন টেকনোলোজির বিষয় বস্তুঃ" />
+            <TextView
+                android:id="@+id/fvdfhjolyyreww33"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="22dp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:fontFamily="sans-serif-condensed"
+                android:text="\nকেন পড়বেন টেলিকমিউনিকেশন ইঞ্জিনিয়ারিং- ? এখান থেকে পড়ে  কি চাকরি করতে পারবেন-?" />
+
+            <TextView
+                android:id="@+id/vdbvrytu666"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="21dp"
+                android:textColor="#FFFFFF"
+                android:fontFamily="sans-serif-condensed"
+                android:text="\nএকবিংশ শতাব্দীর উষালগ্নে তথ্য প্রযুক্তির বিপ্লব আমাদের জীবনযাত্রায় এক নতুন আলোকিত সংযোজন। আটলান্টিক মহাসাগর দিয়ে ইউরোপ আমেরিকার মধ্যে তথ্যযোগাযোগ প্রযুক্তির এগিয়ে চলার পথকে আরও ত্বরান্বিত করেছে। আজ পৃথিবীর এক প্রান্ত থেকে অন্য প্রান্তে চোখের পলকে তথ্য আদান প্রদান করা যায়।মানুষ যখন টেলিফোন আবিষ্কার করেছিল, তখন সেটা ছিল এক বিস্ময়। কিন্তু এখন আমরা আর কেবল কথা বলেই ক্ষান্ত নই, আমরা বিনিময় করি অডিও, ভিডিও, টেক্সট, গ্রাফিক্স, ইমেজ, অ্যানিমেশন। বরং এখন কিভাবে, কে কত দ্রুত এবং কত নিখুঁতভাবে এই তথ্যগুলিকে আদান প্রদান করতে পারে সেটাই হয়ে দাঁড়িয়েছে মূল লক্ষ্য। এ জন্য নতুন নতুন মাইক্রো ডিভাইসসহ তৈরি হচ্ছে আকর্ষণীয় সব ইলেক্ট্রনিক এন্ড টেলিকমিউনিকেশন প্রোজেক্ট। এরই ফলশ্রুতিতে, টেলিকমিউনিকেশন তথা টেলিযোগাযোগ নিয়ে পড়াশুনা সকলের কাছে গুরুত্বপূর্ণ ও প্রয়োজনীয় হয়ে উঠেছে।পৃথিবীর বিভিন্ন প্রান্তে আজ গড়ে উঠেছে অনেক বড় বড় টেলিকমিউনিকেশন প্রতিষ্ঠান, যেমন টিএন্ডটি, ভেরিযন, জার্মান টেলিকম, চায়না মোবাইল, অরেঞ্জ, বোডাফোন, টেলিনর, ওয়ার্ল্ড টেল প্রভৃতি। এই বিষয়ের উপর হাতে-কলমে জ্ঞান অর্জনের জন্য বিভিন্ন ধরনের ডিভাইস প্রয়োজন। এর মধ্যে
+ওয়েবপ্রপাগেসন ট্রেনার, স্পেকট্রাম এনালাইজার, ওসিলিস্কপ, কমিউনিকেশন ট্রেনার, ফাইবার অপটিক ট্রেনার, ডিজিটাল সিগনাল প্রসেসিং ট্রেনার, নেটওয়ার্ক ট্রেনার সিস্টেম, মোবাইল কমিউনিকেশন ট্রেনার, মাইক্রো-প্রসেসর কিট, ভিএলএসআই ডিজাইন কিট, রাউটার, সুইচ, টিমস মেশিন প্রভৃতি অন্যতম।যুগের ধারাবাহিকতায়, পৃথিবীর সাথে তাল মিলিয়ে আমাদের বাংলাদেশও পিছিয়ে নেই। আমাদের দেশে গড়ে উঠেছে বড় বড় টেলিকমিউনিকেশন প্রতিষ্ঠান। এর মধ্যে টেলিটক বাংলাদেশ, গ্রামীন ফোন, এয়ারটেল বাংলাদেশ, রবি, সিটিসেল, বাংলালিংক ইত্যাদি কোম্পানির পাশাপাশি বিটিসিএল, মীর টেলিকম, এডিএন, মেট্রোনেট, র্যাং কসটেল, বাংলাদেশ সাব-মেরিন ক্যাবল কোম্পানি, অনিক টেলিকম ইত্যাদি অন্যতম। এছাড়া এদেশের বিভিন্ন সাবকন ও ভেনডরদের পাশাপাশি আইসিএক্স (ICX),আইআইজি (IIG), ডাবলইও (EEo), আইএসপি (ISP), বাংলালায়ন, কিউবির মতো প্রতিষ্ঠানগুলো চলছে সমান তালে। এদেশের মানুষের কাছে এই প্রতিষ্ঠানগুলো গ্রহণযোগ্য অবস্থান তৈরি করে নিয়েছে। বর্তমানে এদেশের ছাত্র-ছাত্রীদের কাছে এসব কোম্পানীতে চাকরী করা একটি লক্ষ্য হয়ে দাঁড়িয়েছে। আর এই স্বপ্নকে বাস্তবায়িত করতে হলে টেলিকমিউনিকেশন নিয়ে লেখাপড়ার কোনো বিকল্প নেই।
+আমাদের দেশে প্রায় সব কয়েকটি বিশ্ববিদ্যালয়েই এই বিষয়ে গ্র্যাজুয়েশন এবং পোষ্ট গ্র্যাজুয়েশন করার বিভাগ রয়েছে। বিশেষভাবে উল্লেখ্য, ড্যাফোডিল ইন্টারন্যাশনাল ইউনিভার্সিটিতে বাংলাদেশে প্রথম ইলেক্ট্রনিক্স এবং টেলিকমিউনিকেশন ইঞ্জিনিয়ারিং বিভাগ প্রতিষ্ঠিত হয়।বর্তমানে টেলিকমিউনিকেশন বিভাগ থেকে পাস করে ছাত্র-ছাত্রীরা দেশে-বিদেশে বিভিন্ন বড় বড় কোম্পানিগুলোতে ইঞ্জিনিয়ারিং পদে চাকরি করছে। এছাড়াও বিদেশী বিশ্ববিদ্যালয়ে বৃত্তি নিয়ে গবেষণা ও উচ্চশিক্ষার জন্য ইউকে, ইউএসএ, অস্ট্রেলিয়া, কানাডা, জার্মানি, ইতালি প্রভৃতি দেশে পাড়ি জমাচ্ছে।একুশ শতকের ডিজিটাল বাংলাদেশ হবে সম্পূর্ণ টেলিকমিউনিকেশন ও আইটি নির্ভর একটি দেশ। আমাদের মতো অধিক জনসংখ্যার দেশে সবাইকে তথ্য সেবা দিতে প্রয়োজন হবে পর্যাপ্ত টেলিকমিউনিকেশন ইঞ্জিনিয়ার, যারা তাদের দক্ষতা দিয়ে বাস্তবায়ন করবে বর্তমান সরকারের ভিশন ‘‘ডিজিটাল বাংলাদেশ’। এরই ধারাবাহিকতায় বলা যায় যে, বর্তমানে টেলিকমিউনিকেশনের ওপর পড়াশোনা ও ক্যারিয়ার গড়া খুবই গুরুত্ব বহন করে।\n" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

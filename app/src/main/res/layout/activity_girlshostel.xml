@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#292734"
+    tools:context="com.example.fci.myapp_1.Girlshostel">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="match_parent"
+                android:layout_height="258dp"
+                app:srcCompat="@drawable/girlshostel" />
+
+            <TextView
+                android:id="@+id/textView29"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="33dp"
+                android:background="#303F9F"
+                android:textColor="#FFFFFF"
+                android:text="FCI Girls Hostel" />
+
+            <TextView
+                android:id="@+id/textView30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:text="ফেনি কম্পিউটার ইন্সিটিউটের মেয়েদের হোস্টেলে মেধাবি ছাত্রীরা বসবাস করে।মেয়ে দের হোস্টেলে অনেক গুলো ছিট রয়েছে। চাইলে ইন্সিটিউটের যেকোন মেয়ে হোস্টেলে ছিট পেতে পারে । ইন্সিটিউটের  মেয়েরা এখানে শান্ত পরিবেশে লেখা পড়া করতে পারে ।হোস্টেলের মেয়েদের গাইড টিচর হিসেবে সবসময়ই কয়েক জন ম্যাম রয়েছেন ।ইন্সিটিউটের মেয়েদের  হোস্টেলে অনেক নিরাপত্তা ব্যা্বস্থা রয়েছে ।ইন্সিটিউটের মেয়েরা ব্যাতীত অন্য কেও ভিতরে প্রবেশ করতে পারে না। এখানে লেখা পড়ার পাশাপাশি মেয়েদের জন্য খেলা দুলার ব্যা্বস্থা রয়েছে ।ইন্সিটিউটের হোস্টেলে ৩ বেলা খাবার দেওয়া হয় ।বিশেষ করে দুপুরের খাবার খুব ভাল হয় ।সকাল বেলার  খাবার ৮ টা থেকে ১০ টা পরযন্ত দেওয়া হয়। দুপুরবেলার  খাবার ১২.৩০ টা থেকে ২ টা পরযন্ত দেওয়া হয়। রাতের খাবার ৯ টা থেকে ১১ টা পর্যন্ত দেওয়া হয় ।" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

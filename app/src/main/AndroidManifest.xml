@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fci.myapp_1">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Aboutfci" />
+        <activity android:name=".Department" />
+        <activity android:name=".Principal" />
+        <activity android:name=".Teacher" />
+        <activity android:name=".Classct" />
+        <activity android:name=".CSTClasscr" />
+        <activity android:name=".Elevenbatch_cst" />
+        <activity android:name=".Tuelvebatchcst" />
+        <activity android:name=".DNT_CR" />
+        <activity android:name=".ThirteenbatchCST" />
+        <activity android:name=".ElevenDNT" />
+        <activity android:name=".Thirteen_DNT" />
+        <activity android:name=".TCT_CR" />
+        <activity android:name=".First_TCT" />
+        <activity android:name=".Second_TCT" />
+        <activity android:name=".CST_Teacher" />
+        <activity android:name=".DNT_Teacher" />
+        <activity android:name=".TCT_Teacher" />
+        <activity android:name=".RS_Teacher" />
+        <activity android:name=".Staf" />
+        <activity android:name=".Tuelvebatch_DNT" />
+        <activity android:name=".Activities" />
+        <activity android:name=".hostel" />
+        <activity android:name=".contact" />
+        <activity android:name=".result" />
+        <activity android:name=".Campus_map" />
+        <activity android:name=".About_SEIP" />
+        <activity android:name=".About_US" />
+        <activity android:name=".CST_Department" />
+        <activity android:name=".DNT_Department" />
+        <activity android:name=".TCT_Department" />
+        <activity android:name=".Blood_donation" />
+        <activity android:name=".Rubar_Scout" />
+        <activity android:name=".FCI_Libary" />
+        <activity android:name=".Boyes_hostel" />
+        <activity android:name=".Girlshostel" />
+        <activity android:name=".Clubs" />
+        <activity android:name=".Contact_Blood" />
+        <activity android:name=".Tenbatchcst" />
+        <activity android:name=".Tenbatch_DNT" />
+        <activity android:name=".Industry_Visit" />
+        <activity android:name=".Student_attactment" />
+        <activity android:name=".Routine" />
+        <activity android:name=".Classroutine" />
+        <activity android:name=".Class_routine" />
+        <activity android:name=".Contact_SEIP"></activity>
+    </application>
+
+</manifest>

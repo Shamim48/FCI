@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cs_hw"
+    tools:context="com.example.fci.myapp_1.About_SEIP">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageView12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/seip" />
+
+            <Button
+                android:id="@+id/contactseipslkfk"
+                android:layout_width="280dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/btn"
+                android:text="Contact"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="30dp"
+                android:background="#303F9F"
+                android:text="About SEIP" />
+
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:text="\n
+ অদক্ষ জনশক্তি থেকে দক্ষ শ্রমশক্তি তৈরী এবং দক্ষ জনশক্তির দক্ষতা বৃদ্দির লক্ষ্যে Skills for Employment Investment Programme (SEIP) হলো এশিয়ান ডেভেলপমেন্ট ব্যাংক (ADB) এবং সুইজারল্যান্ড সরকারের সহায়তায় বাংলাদেশ সরকারের একটি উদ্দ্যোগ। এর মাধ্যমে আগামী ২০২১ সালের মধ্যে মোট ১৫ লক্ষ্য জনশক্তিকে বিনামূল্যে প্রশিক্ষণ দেয়া হবে। মোট প্রকল্প ব্যয় প্রায় ১ বিলিয়ন মার্কিন ডলার বা প্রায় ৮০০০ কোটি টাকা। প্রথম দফায় ২০১৭ সালের মধ্যে মোট ২ লক্ষ ৬০ হাজার জনকে প্রশিক্ষণ দেয়া হবে। এতে ৬টি ক্রম বিকাশমান খাতকে অগ্রাধিকার দেয়া হয়েছে। STEP প্রকল্পের মূল উদ্দেশ্য হচ্ছে কারিগরি শিক্ষা ও প্রশিক্ষণের গুণগত মান উন্নয়ন ও সম্প্রসারণের মধ্য দিয়ে আর্থ-সামাজিকভাবে অনগ্রসর শিক্ষার্থীদের নিকট কারিগরি শিক্ষাকে সহজলভ্য করে তোলা ও তাদের কর্মসংস্থানের সুযোগ সৃষ্টি ও বৃদ্ধির মাধ্যমে দারিদ্র ও বেকারত্ব দূর করা।ফেনী কম্পিউটার ইন্সিটিউট  এ SEIP এর জন্য ৩ টি ডিপার্টমেন্ট রয়েছে ।ওয়েব ডিজাইন , গ্রাফিক্স  ডিজাইন,এবং আই টি , এই  ডিপার্টমেন্ট থেকে শিক্ষার্থিরা দক্ষতার সাথে লেখা পড়া শেষ করে বিভিন্ন মাল্টিন্যাশনাল কম্পানি তে জব করতেছে ।অনেক শিক্ষার্থি ফ্রীলান্সিং করতেছে।ফ্রীলান্সিং করে বৈদেশিক মুদ্রা উপার্জন করতেছে  এবং বাংলাদেশ কে অর্থনৈতিক ভাবে সমৃদ্ধশালী দেশ হিসেবে গড়ে তুলতেছে।\n" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

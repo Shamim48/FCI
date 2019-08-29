@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cs_hw"
+    tools:context="com.example.fci.myapp_1.RS_Teacher">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/ci_sir" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	Debabrata Kumar Nath\n
+\t\t\tHead of the Department(R.S)\n
+\t\t\tDesignation: Chief Instructor\n
+\t\t\tDepartment: R.S\n
+\t\t\tPhone: +8801553375004\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="17dp" />
+
+            <Button
+                android:id="@+id/cisircallbtn"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageViewfdg"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/rajibsir" />
+
+            <TextView
+                android:id="@+id/textViewrrr"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	RAJIB KUMAR GHOSH\n
+Designation: INSTRUCTOR\n
+Department:	R.S\n
+Phone: +8801767911281\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/rajibsircallbtn"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView67"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/mojidsir" />
+
+            <TextView
+                android:id="@+id/textVie88w"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	MOHAMMED MOJIDUR RAHMAN\n
+\t\t\tDesignation: Instructor\n
+\t\t\tDepartment: R.S\n
+\t\t\tPhone: +8801843492677\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="17dp" />
+
+            <Button
+                android:id="@+id/mojidsircallbtn"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageView789"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/dulalsir" />
+
+            <TextView
+                android:id="@+id/textViewyui"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	DULAL HUSAIN\n
+\t\t\tDesignation: Instructor\n
+\t\t\tDepartment: R.S\n
+\t\t\tPhone: +8801724363463\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="17dp" />
+
+            <Button
+                android:id="@+id/dulalsircallbtn"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textVieyyt"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageViewgh"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/nahida_akter_mam" />
+
+            <TextView
+                android:id="@+id/textViewhhhj"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	NAHIDA AKHTER\n
+\t\t\tDesignation: Junior Instructor\n
+\t\t\tDepartment: R.S\n
+\t\t\tPhone:	+8801554803607\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="17dp" />
+
+            <Button
+                android:id="@+id/nahidaaktermamcallbtn"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textViewsdffgghjyu"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageVieweghjryjhgnug89"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/alom_sir" />
+
+            <TextView
+                android:id="@+id/textViewfhg55678"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	Alomgir Hossain\n
+\t\t\tDesignation: Junior Instructor\n
+\t\t\tDepartment:	R.S\n
+\t\t\tPhone: +8801813859454\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="17dp" />
+
+            <Button
+                android:id="@+id/alomgirsircallbt"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textVdgghieufyu"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+
+            <ImageView
+                android:id="@+id/imageViewerykjhdfjkgnug89"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/sanuwarsir" />
+
+            <TextView
+                android:id="@+id/textViewf5hfd5678"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	Sanuwar Hossain\n
+\t\t\tDesignation: Junior Instructor\n
+\t\t\tDepartment:	R.S\n
+\t\t\tPhone: 01737463844\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="17dp" />
+
+            <Button
+                android:id="@+id/sanuwarsircallbtnd"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textdfhdkdjVieufyu"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+
+
+
+            <ImageView
+                android:id="@+id/imageVieweryjhgnug89"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/sanowaj_sir" />
+
+            <TextView
+                android:id="@+id/textView55678"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	Md.Shahnawaz khan\n
+\t\t\tDesignation: Junior Instructor\n
+\t\t\tDepartment:	R.S\n
+\t\t\tPhone: +8801726801640\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="17dp" />
+
+            <Button
+                android:id="@+id/shahnawajsircallbtn"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textVieufyu"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

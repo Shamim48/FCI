@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tct_ui"
+    tools:context="com.example.fci.myapp_1.Staf">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/altaf" />
+
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	MD. ALTAF HOSSAIN\n
+\t\t\tDesignation: PHARMACIST\n
+\t\t\tPhone: +8801842662958\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/altafcallb"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageViewxcvghfcvg"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/shurmanali" />
+
+
+            <TextView
+                android:id="@+id/textViefghfgw"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	MD. SURMAN ALI\n
+\t\t\tDesignation: ASSISTANT-LIBRARIAN\n
+\t\t\tPhone: +880715644511\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/surmanalicallbtn"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView4hty78"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageViewdg789"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/shahidulislam" />
+
+
+            <TextView
+                android:id="@+id/textViedgsdbbcxdfw"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	MD.SHAHIDUL ISLAM\n
+\t\t\tDesignation: CASHIER\n
+\t\t\tPhone: +8801688827604\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/shahidcallb"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textVidrttuvfdd"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageViewfdgdfgt68"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/atiqurrahman" />
+
+
+            <TextView
+                android:id="@+id/textVieghjkklwghfdf"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	ATIQUR RAHMAN\n
+\t\t\tDesignation: LABRATORY ASSISTANT\n
+\t\t\tPhone: +8801826628897\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/atiqurrahmancallb"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textViedty67875"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageViewlghiyi53"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/jaforiqbal" />
+
+
+            <TextView
+                android:id="@+id/textViewerffgd45"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	JAFAR IKBAL\n
+\t\t\tDesignation: LABRATORY ASSISTANT\n
+\t\t\tPhone: +8801814713208\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/jaforiqbalcallb"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textViewijeroitunmv345"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageViefsw4"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/taifurrahman" />
+
+
+            <TextView
+                android:id="@+id/textVifdsgfbdfgreew"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	MD. TAIFUR RAHMAN\n
+\t\t\tDesignation: OFFICE ASSISTANT\n
+\t\t\tPhone: 01754209451\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/taifurrahmancallbt"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/tesdfrgrtgs"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageViefggrr64"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/aminulhoq" />
+
+
+            <TextView
+                android:id="@+id/textViewygbgds689"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	MD. AMINUL ISLAM\n
+\t\t\tDesignation: COOK\n
+\t\t\tPhone: +8801743382677\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/aminulislamcallb"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textVieafdhetyu"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageViewertu67845"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/abdulmalek" />
+
+
+            <TextView
+                android:id="@+id/textViewarfghjk45"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	ABDUL MALEK\n
+\t\t\tDesignation: BOOK SORTER\n
+\t\t\tPhone: +8801965617002\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/malekcallbt"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView094ijsdfcv"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageViewjvnskjdhfsd344"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/primol" />
+
+
+            <TextView
+                android:id="@+id/textViesagstrweavw"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	Parimol Das\n
+\t\t\tDesignation: Cleaner\n
+\t\t\tPhone: +8801716206507\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/parimallcallbt"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/sadfdfgdf"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/asdczxcsdfsdgfg"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/shita" />
+
+
+            <TextView
+               android:id="@+id/texsdhdfbfghView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	Sita rani das\n
+\t\t\tDesignation: office shokari\n
+\t\t\tPhone: +8801725538535\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/sitacallbtn"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/bdfhgdfhhjktytre45"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageVisfgdhgf68"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/shemoli" />
+
+
+            <TextView
+                android:id="@+id/asvdfasrtr68"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	Shamoli rani das\n
+\t\t\tDesignation: cleanliness\n
+\t\t\tPhone: +8801738044108\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/shamo"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/asdfs46589i"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageVisfgaadhgf6fghh8"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/akbar" />
+
+
+            <TextView
+                android:id="@+id/asvdfasrubeakblrtr68"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	Akbar Ali\n
+\t\t\tDesignation: Dining  Cleaner\n
+\t\t\tPhone: 01867355125\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/akbarcallbtn"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/asdfsgghakgfggg46589i"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+
+            <ImageView
+                android:id="@+id/imageVisfgdhgf6fghh8"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/rubelmia" />
+
+
+            <TextView
+                android:id="@+id/asvdfasrubelrtr68"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	Rubel Mia\n
+\t\t\tDesignation: Security guard\n
+\t\t\tPhone: 01732331222\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/rubelmiacallbtn"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/asdfsgghgfggg46589i"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <TextView
+                android:id="@+id/asvdfasrubelresartr68"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	Resaul Karim\n
+\t\t\tDesignation: Security guard\n
+\t\t\tPhone: 01787447016\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/resaulcallbtn"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/asdfsgghgfgggresa46589i"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <ImageView
+                android:id="@+id/imageVisfggaamjkdhgf6fghh8"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/nurud" />
+
+            <TextView
+                android:id="@+id/asvdfasrunurubelrtr68"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n
+\t\t\tName:	Nuruddin\n
+\t\t\tDesignation: Security guard\n
+\t\t\tPhone: 01913493227\n
+"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/nuruddincallbtn"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/asdfsgghgfgggnuru46589i"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/netwarking_ui_img"
+    tools:context="com.example.fci.myapp_1.Thirteen_DNT">
+
+
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20dp"
+                    android:text="\n
+\t\t\tName:Turabujjman Arabi.\n
+\t\t\tMobile:0188225246.\n
+\t\t\tDept:D.N.T\n
+\t\t\tShift:1st\n
+\t\t\tBatch:13\n
+" />
+
+                <Button
+                    android:id="@+id/arbicallbtn"
+                    android:layout_width="200dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/callnowbtn"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="#FFFFFF"
+                    android:text="" />
+                <TextView
+                    android:id="@+id/ksfjng87"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20dp"
+                    android:text="\n
+\t\t\tName:Nusrat Jahan.\n
+\t\t\tDept:D.N.T\n
+\t\t\tShift:1st.\n
+\t\t\tBatch:13\n
+
+" />
+
+                <TextView
+                    android:id="@+id/agfdsbfghytu476345"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="#FFFFFF"
+                    android:text="" />
+                <TextView
+                    android:id="@+id/dfhghrtyr456309"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20dp"
+                    android:text="\n
+\t\t\tName:Api Chandra Sharma.\n
+\t\t\tMobile:01830540932.\n
+\t\t\tDept:D.N.T\n
+\t\t\tShift:2nd\n
+\t\t\tBatch:13\n
+" />
+
+                <Button
+                    android:id="@+id/sharmacallbtn"
+                    android:layout_width="200dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/callnowbtn"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/jjg67870998"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="#FFFFFF"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/jhbjhaw76523234"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20dp"
+                    android:text="\n
+\t\t\tName:Jannatul Maiem.\n
+\t\t\tDept:D.N.T\n
+\t\t\tShift:2nd\n
+\t\t\tBatch:13\n
+" />
+                <TextView
+                    android:id="@+id/textViewerqwrwe3456"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="#FFFFFF"
+                    android:text="" />
+            </LinearLayout>
+        </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

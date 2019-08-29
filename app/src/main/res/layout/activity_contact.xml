@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#26242F"
+    tools:context="com.example.fci.myapp_1.contact">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/teachercontact"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:textSize="27dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:background="@drawable/btn"
+                android:onClick="teachercontact"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:fontFamily="serif-monospace"
+                android:text="Teachers Contact" />
+
+            <Button
+                android:id="@+id/stafcontact"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:textSize="23dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:background="@drawable/btn"
+                android:onClick="staffcontact"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:fontFamily="serif-monospace"
+                android:text="Office Staffs Contact" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

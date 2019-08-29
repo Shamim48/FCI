@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+    android:background="@drawable/cs_hw"
+android:layout_height="match_parent"
+tools:context="com.example.fci.myapp_1.Tuelvebatchcst">
+
+
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:weightSum="1">
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20dp"
+                    android:text="
+
+\t\t\tName  :Moshius Rahman MOhsin.\n
+\t\t\tMobile:01625178241\n
+\t\t\tDep   :C.S.T\n
+\t\t\tShift :1st\n
+\t\t\tbatch :12\n
+" />
+
+                <Button
+                    android:id="@+id/mohsincallb"
+                    android:layout_width="200dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/callnowbtn"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="#FFFFFF"
+                    android:text="" />
+                <TextView
+                    android:id="@+id/textV6df65gsgtr6iew"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="20dp"
+                    android:textColor="#FFFFFF"
+                    android:text="
+\t\t\tName  :Abu Sufian.\n
+\t\t\tMobile:01833035401\n
+\t\t\tDept  : C.S.T\n
+\t\t\tShift :1st.\n
+\t\t\tBatch :12\n
+" />
+
+                <Button
+                    android:id="@+id/sufiancallb"
+                    android:layout_width="200dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/callnowbtn"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/textView4grtyy543ewrt78"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="#FFFFFF"
+                    android:text="" />
+                <TextView
+                    android:id="@+id/textViewertewert567ee"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20dp"
+                    android:text="
+\t\t\tName   :Shohidul Islam(jibon).\n
+\t\t\tMobile :01824877183.\n
+\t\t\tDept   :C.S.T\n
+\t\t\tShift  :2nd.\n
+\t\t\tBatch  :12\n
+" />
+
+                <Button
+                    android:id="@+id/jiboncallb"
+                    android:layout_width="200dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/callnowbtn"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/textView4erert345656ewg"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="#FFFFFF"
+                    android:text="" />
+                <TextView
+                    android:id="@+id/textViewgty7894ert"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20dp"
+                    android:text="
+\t\t\tName  :Shamsul Haque Arfin.\n
+\t\t\tMobile:01715613011\n
+\t\t\tDept  :C.S.T\n
+\t\t\tShift :2nd.\n
+\t\t\tBatch :12\n
+" />
+
+                <Button
+                    android:id="@+id/arifincallb"
+                    android:layout_width="200dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/callnowbtn"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/textViewghdfgsre4"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="#FFFFFF"
+                    android:text="" />
+                <TextView
+                    android:id="@+id/textViewfgdstghreghr546"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="18dp"
+                    android:textColor="#FFFFFF"
+                    android:text="
+\t\t\tName  :Towfika Afsana(Tithi).\n
+\t\t\tMobile:\n
+\t\t\tDept  :C.S.T\n
+\t\t\tShift :2nd.\n
+\t\t\tBatch :12\n
+" />
+                <TextView
+                    android:id="@+id/textViewfdkjgiod8e7sd45"
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp"
+                    android:background="#FFFFFF"
+                    android:text="" />
+            </LinearLayout>
+        </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

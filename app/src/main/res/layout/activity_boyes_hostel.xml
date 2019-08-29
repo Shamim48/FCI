@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1F1E26"
+    tools:context="com.example.fci.myapp_1.Boyes_hostel">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageView14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/boyshostel" />
+
+            <TextView
+                android:id="@+id/textView32"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="33dp"
+                android:background="#303F9F"
+                android:textColor="#FFFFFF"
+                android:text="FCI Boys Hostel" />
+
+            <TextView
+                android:id="@+id/textView33"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="21dp"
+                android:textColor="#ffffff"
+                android:text="
+ফেনী কম্পিউটার ইন্সটিটিউটের ছেলেদের হোস্টেলে মেধাবি এবং দূরবর্তী ছাত্ররা বসবাস করে ।এই হোস্টেলে সিট দেওয়া হয় দূরত্ব ও মেধার উপর বিত্তি করে ।এখানে ছাত্ররা শান্ত পরিবেশে লেখা পড়া করে ।এই হোস্টেলে  ছাত্রদের বসবাস এর জন্য ২৩ টি রুম রয়েছে ।মেহমান দের জন্য ১ টি রুম রয়েছে ।হোস্টেল মেনেজার এর জন্য একটি রুম ।ছাত্র দের বসে  খাওয়ার জন্য একটি ডাইনিং রুম রয়েছে ।পড়ালেখার পাশাপাশি খেলা দুলার জন্য কেরাম বোর্ড রয়েছে ।সংবাদ শুনার জন্য  কমন রুম  এ টিভি রয়েছে ।হোস্টেলের ছাত্র দের খাবার রান্না করার জন্য ৮ জন কুক রয়েছে ।ইন্সিটিউটের হোস্টেলে ৩ বেলা খাবার দেওয়া হয় ।বিশেষ করে দুপুরের খাবার খুব ভাল হয় ।সকাল বেলার  খাবার ৮ টা থেকে ১০ টা পরযন্ত দেওয়া হয়। দুপুরবেলার  খাবার ১২.৩০ টা থেকে ২ টা পরযন্ত দেওয়া হয়। রাতের খাবার ৯ টা থেকে ১০ টা পরযন্ত দেওয়া হয় ।\n" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

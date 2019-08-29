@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/codeworld"
+    tools:context="com.example.fci.myapp_1.Tenbatchcst">
+
+    <ScrollView
+        android:layout_width="368dp"
+        android:layout_height="495dp"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:text="
+
+\t\t\tName  :Ruhul Koddus Iyasin.\n
+\t\t\tMobile:01845709663\n
+\t\t\tDep   :C.S.T\n
+\t\t\tShift :2nd\n
+\t\t\tbatch :10\n
+" />
+
+            <Button
+                android:id="@+id/iyasincallbtn"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+            <TextView
+                android:id="@+id/asdfhryue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:text="
+
+\t\t\tName  :Rajib Mia.\n
+\t\t\tMobile:01836276601\n
+\t\t\tDep   :C.S.T\n
+\t\t\tShift :2nd\n
+\t\t\tbatch :10\n
+" />
+
+            <Button
+                android:id="@+id/rajibcallbtn"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textVirthswer5623"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#FFFFFF"
+                android:text="" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

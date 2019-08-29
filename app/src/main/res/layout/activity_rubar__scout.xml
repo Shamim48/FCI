@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#22222C"
+    tools:context="com.example.fci.myapp_1.Rubar_Scout">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/scout" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:textSize="30dp"
+                android:textStyle="bold"
+
+                android:text="ফেনী কম্পিটার ইনস্টিটিউট রোভার ইউনিটঃ
+                " />
+            <TextView
+                android:id="@+id/textView878"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:text="ফেনী কম্পিটার ইনস্টিটিউটের একটা স্বেচ্ছাসেবী দল।রোভারের মূলমন্ত্র হচ্ছে সেবা।এই সেবার পরিপ্রেক্ষিতে আমাদের রোভার সহচররা  আত্মসেবা,সমাজসেবা ও আন্দোলন সেবায় নিজেদেরকে সর্বদা নিয়োজিত রেখেছে।প্রতিষ্ঠানের শৃঙ্খলা,সজ্জিতকরন এক কথায় সকল দায়িত্বে রোভাররা ইনস্টিটিউট কর্তৃক প্রশংসায় পঞ্চমুখ।আমাদের রোভাররা নিজেদেরকে শুধু প্রতিষ্ঠানের মধ্যেই সীমাবদ্ধ রাখেনি।প্রতিষ্ঠানের বাইরে বিভিন্ন ও ক্যাম্পিং এ অংশ নিয়ে প্রতিষ্ঠানেরসুনাম ধরে রেখেছে।আমাদের রোভার সহচরদের মোট সংখ্যা ৪৫জন।একজন ইউনিট লিডার মোঃ মজিদের রহমান স্যার,দুই জন সিনিয়র রোভারমেট বাকি ৪৩ জন সদস্য নিয়ে গঠিত ফেনী কম্পিটার ইনস্টিটিউট রোভার ইউনিট।জাতীয় দিবসগুলোতে উৎযাপিত কুচকাওয়াজ সভায় আমাদের রোভার ইউনিট অংশ নেয় এবং প্রথমবার অংশ নিয়েও ভালো একটা কৃতিত্ব বহন করে।আমাদের রোভাররা নিজেদের জ্ঞানের পরিসীমা বাড়াতে একটা শিক্ষামুলক ভ্রমনের আয়োজন করে।এছাড়া আমাদের রোভাররা প্রতিষ্ঠানের সুনামার্জনের জন্য প্রশাসনিক মেহমানদের প্যরেড অভ্যর্থনা জানানোর ক্ষেত্রে বিশেষ ভুমিকা রাখে। আমাদের রোভার সদস্যগন প্রাতিষ্ঠানিক অনুষ্ঠানের শৃঙ্খলা নিয়ন্ত্রণে তাদের নিজজ দায়িত্বের প্রতি অটুট থাকে।রোভারের দক্ষতা বাড়াতে হাতে কলমে শিক্ষাদানের পরিপ্রেক্ষিতে রোভাররা ক্রু-মিটিং এর আয়োজন করে।সেখানে রোভারদের দায়িত্ব-কর্তব্য ও দক্ষতা বাড়ানোর বিভিন্ন প্রশিক্ষন দেওয়া হয়।এভাবেই আমাদের রোভার সদস্যগন নিজেদেরকে দেশ ও জাতির সেবায় নিয়োজিত রাখে ।
+" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0e0e0e"
+    tools:context="com.example.fci.myapp_1.Routine">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/classroutine"
+                android:layout_width="280dp"
+                android:layout_height="100dp"
+                android:textSize="26dp"
+                android:onClick="classroutine"
+                android:layout_gravity="center"
+                android:background="@drawable/btn"
+                android:text="Class Routine" />
+
+            <Button
+                android:id="@+id/examroutin"
+                android:layout_width="280dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:textSize="26dp"
+                android:onClick="examroutine"
+                android:background="@drawable/btn"
+                android:text="exam Routine" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

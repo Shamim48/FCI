@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#121111"
+    tools:context="com.example.fci.myapp_1.Student_attactment">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:textSize="30dp"
+                android:text="Students Attactment" />
+
+            <ImageView
+                android:id="@+id/imageViehhgw15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/smlab" />
+            <ImageView
+                android:id="@+id/imageVfghhhhiew15"
+                android:layout_width="match_parent"
+                android:layout_height="218dp"
+                app:srcCompat="@drawable/dntlab" />
+
+            <TextView
+                android:id="@+id/texgaffdhjhgsdtVaaa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#3F51B5"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:text="\nIndustrial Attachment:" />
+            <TextView
+                android:id="@+id/texgaffsdtVaaa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#1D3458"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:text="\nIndustrial Attachment হচ্ছে internship এর অপর নাম। ৩/৪ বছর মেয়াদী সকল Course এই Practical বিষয়ে জ্ঞান অর্জনএর জন্য একটা নির্দিষ্ট সময় যার যার Subject বা Course এর সাথে সামঞ্জস্য রেখে কোনো অফিস এ বা Industry তে কাজ করার নাম ই internship আমরা যারা diploma engineering পড়ছি, তাদের ৯০% ই চাকুরী ক্ষেত্রে Industrial তে কাজ করেন বেশি, তাই internship এর এই course টাকে বলা হয় Industrial Attachment.আমাদের FCI এর সাথে অনেক গুলো Industry সংযুক্ত রয়েছে ।শেই Industry গুলোতে FCI এর  ছাত্ররা web development,Laravel Framework,java programming,apps Development,Software Development,graphics Designe,CCNA(R and S),CCNASecurity,Hardware and Network,Red Hat Linux এর উপরে internship করে বিভিন্ন Industry টিতে চাকরি করতেছে ।\n
+" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

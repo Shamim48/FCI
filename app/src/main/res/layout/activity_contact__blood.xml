@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#303030"
+    tools:context="com.example.fci.myapp_1.Contact_Blood">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="30dp"
+
+                android:text="আপনি কি ব্লাড খুচ্ছেন-? তাহলে FCI Blood Donation group এর কমিটি দের সাথে যোগাযুগ করুন ।" />
+
+            <TextView
+                android:id="@+id/textViewfaruk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="22dp"
+
+                android:text="
+\t\tName :Omar Bin Kasim Sefat\n
+\t\tPresident of FCI Blood Donation Group\n
+\t\tPhone: 01839095841\n
+" />
+
+            <Button
+                android:id="@+id/sifatbaicallb"
+                android:layout_width="250dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView28"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#ffffff"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textViewkazimasud"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="21dp"
+
+                android:text="
+\t\tName :Kazi Abdullah all Masud\n
+\t\tSecretary of FCI Blood Donation Group.\n
+\t\tPhone: 01876155755 \n
+" />
+            <Button
+                android:id="@+id/masudcallb"
+                android:layout_width="250dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textViewomarfaru"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#ffffff"
+                android:text="" />
+            <TextView
+                android:id="@+id/textViewsanaulazimmehedi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="21dp"
+
+                android:text="
+\t\tName : Sanaul Azim Mehedi\n
+\t\tjoind  secretary of FCI Blood Donation Group.\n
+\t\tPhone: 01851994602 \n
+" />
+            <Button
+                android:id="@+id/mehedicallbtn"
+                android:layout_width="250dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textViewnull"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#ffffff"
+                android:text="" />
+            <TextView
+                android:id="@+id/textViewsanauremlazimmehedi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="21dp"
+
+                android:text="
+\t\tName : Kazi Mobarok hosen Rimon\n
+\t\tVice President of FCI Blood Donation Group.\n
+\t\tPhone: 01833809145 \n
+" />
+            <Button
+                android:id="@+id/remoncallbtn"
+                android:layout_width="250dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/callnowbtn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textVremoniewnull"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="#ffffff"
+                android:text="" />
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

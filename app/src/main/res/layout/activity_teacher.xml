@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ui"
+    tools:context="com.example.fci.myapp_1.Teacher">
+
+
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <Button
+                android:id="@+id/cst"
+                android:layout_width="250dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/cstb2u"
+                android:onClick="cstteacherbtn"
+                android:text="" />
+
+            <Button
+                android:id="@+id/dnt"
+                android:layout_width="250dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/dntb2u"
+                android:onClick="dnttecherbtn"
+                android:text="" />
+
+            <Button
+                android:id="@+id/tct"
+                android:layout_width="250dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/tctb2u"
+                android:onClick="tcttecherbtn"
+                android:text="" />
+
+            <Button
+                android:id="@+id/rs"
+                android:layout_width="250dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/rsb2u"
+                android:onClick="rstecherbtn"
+                android:text="" />
+
+
+    </LinearLayout>
+        </ScrollView>
+
+
+
+</android.support.constraint.ConstraintLayout>

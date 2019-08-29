@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#180e0e"
+    tools:context="com.example.fci.myapp_1.Aboutfci">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/cam" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="serif-monospace"
+                android:text="ABOUT FCI"
+                android:textColor="#303F9F"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:background="#171518"
+                android:text="
+তথ্য প্রযুক্তি  নির্ভর  জনশক্তি  তৈরির  লক্ষ্যে  এই প্রতিষ্ঠানটি  ফেনীতে  প্রতিষ্ঠিত হয়।এটি বাংলাদেশের একমাত্র কম্পিউটার ইনস্টিটিউট। ফেনী কম্পিউটার ইন্সটিটিউট বাংলাদেশের একটি কারিগরী শিক্ষা প্রতিষ্ঠান। এই প্রতিষ্ঠানটি ২০০৩ সালে প্রতিষ্ঠিত হয়। এটি ছিল বাংলাদেশ সরকারের  একমাত্র  ডিজিটাল পলিটেকনিক  ইনস্টিটিউট , যা ফেণী  জেলার নতুন রানীর হাটে অবস্থিত  এবং  এই প্রতিষ্ঠানে ডাটা টেলিকমিউনিকেশন এন্ড নেটওয়ার্কিং টেকনোলজি (ডি এন টি), কম্পিউটার  সাইন্স  এন্ড  টেকনোলজি  ( সি  এস  টি ), এবং২০১৬ সাল থেকে নতুন করে  টেলিকমিউনিকেশন টেকনোলজি (টি সি টি)যুক্ত হয়েছে।বর্তমানে এই তিনটি বিষয়ে ৪বছর মেয়াদী ডিপ্লোমা কোর্স পরিচালিত হচ্ছে।\n
+★প্রতিষ্ঠানের নামঃ ফেনী কম্পিউটার ইনস্টিটিউট।\n
+★কারিগরি শিক্ষা বোর্ড কর্তৃক কোডঃ ৬৯০১৯ \n
+★প্রতিষ্ঠানের স্তরঃ ডিপ্লোমা।\n
+★ব্যবস্থাপনাঃ সরকারী।\n
+★সর্বমোট ছাত্র-১১৩০ জন। ছেলে-৯২৫ জন। মেয়ে-২০৫ জন।\n
+★প্রতিষ্ঠার তারিখঃ ০৬-১০-২০০৩ খ্রীঃ\n
+★ভৌগলিক অবস্থানঃ সমভূমি\n
+★প্রতিষ্ঠার অনুমতির তারিখঃ ২৩-০৬-২০০৫\n
+★প্রথম স্বীকৃতির তারিখঃ ১৭-১০-২০০৫\n
+★জাতীয় দক্ষতা অর্জনঃ ১৫-০৫-২০১৩\n
+★পোষ্ট অফিসঃডি টি এম, নতুন রানীরহাট।\n
+★থানাঃ ফেনী সদর।\n
+★জেলাঃ ফেনী, কোড- ৩৯০০\n
+★মোবাইলঃ ০১৬৮০৬৪৮৯৯৯\n
+★ফোনঃ ০৩৩১৬১৮৮৮\n
+★ওয়েভ সাইটঃ fci.gov.bd\n
+★ই-মেইলঃ fci_bd@yahoo.com\n
+
+
+"
+                android:textColor="#FFFFFF"/>
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

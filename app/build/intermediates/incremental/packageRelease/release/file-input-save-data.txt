@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Fri Apr 13 17:20:33 BDT 2018
+1.base=F\:\\jttl\\MyApp_1\\app\\build\\intermediates\\assets\\release
+2.path=indusrtpdf.pdf
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=F\:\\jttl\\MyApp_1\\app\\build\\intermediates\\assets\\release
+3.set=DEX
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=ASSET
+0.path=mou.pdf
+3.base=F\:\\jttl\\MyApp_1\\app\\build\\intermediates\\transforms\\dex\\release\\0
+0.set=ASSET
+0.base=F\:\\jttl\\MyApp_1\\app\\build\\intermediates\\assets\\release
+2.baseType=DIRECTORY
+1.path=gallerypdf.pdf

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#151514"
+    tools:context="com.example.fci.myapp_1.Contact_SEIP">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <ImageView
+                android:id="@+id/helalsirimageb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/helalsir" />
+
+            <TextView
+                android:id="@+id/helalsirtextbtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="21dp"
+                android:textColor="#ffffff"
+                android:text="
+\t\tName : Helal Uddin\n
+\t\tFocal person of SEIP\n
+\t\tPhone : 01815645223\n
+\t\tE-mail: smilehelal@gmail.com\n" />
+            <Button
+                android:id="@+id/hehalsirseipb"
+                android:layout_width="250dp"
+                android:layout_height="80dp"
+                android:background="@drawable/callnowbtn"
+                android:layout_gravity="center"
+                />
+            <TextView
+                android:id="@+id/heljhhkfdlksjiofkk"
+                android:layout_width="match_parent"
+                android:layout_height="12dp"
+                android:background="#ffffff"
+                android:textColor="#ffffff"/>
+
+            <ImageView
+                android:id="@+id/jdfhjgdkjksda"
+                android:layout_width="320dp"
+                android:layout_height="300dp"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/yunushsir"
+                android:layout_weight="0.26" />
+
+            <TextView
+                android:id="@+id/helalsirkdfuisssdvstextbtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="21dp"
+                android:textColor="#ffffff"
+                android:text="
+\t\tMohammad Younus\n
+\t\tjob Placement Officer(SEIP)\n
+\t\tPhone : 01858888797\n
+\t\tphone : 01975309002\n
+\t\tE-mail: younusinfo92@gmail.com\n" />
+            <Button
+                android:id="@+id/younussircallb"
+                android:layout_width="250dp"
+                android:layout_height="80dp"
+                android:background="@drawable/callnowbtn"
+                android:layout_gravity="center"
+                />
+            <TextView
+                android:id="@+id/slkjeiornvkskdds"
+                android:layout_width="match_parent"
+                android:layout_height="12dp"
+                android:background="#ffffff"
+                android:textColor="#ffffff"/>
+
+            <ImageView
+                android:id="@+id/sjkdfkjsjdfiurbbjs"
+                android:layout_width="match_parent"
+                android:layout_height="330dp"
+                app:srcCompat="@drawable/samifarukvai"
+                android:layout_weight="0.39" />
+
+            <TextView
+                android:id="@+id/helalsirdtfgfdedxtbtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="21dp"
+                android:textColor="#ffffff"
+                android:text="
+\t\tName : Sumi Faruk\n
+\t\tTrainer of IT \n
+\t\tPhone : 01682812929" />
+            <Button
+                android:id="@+id/sumifarukcallbtn"
+                android:layout_width="250dp"
+                android:layout_height="80dp"
+                android:background="@drawable/callnowbtn"
+                android:layout_gravity="center"
+                />
+            <TextView
+                android:id="@+id/heljkfdlksjiofkk"
+                android:layout_width="match_parent"
+                android:layout_height="12dp"
+                android:background="#ffffff"
+                android:textColor="#ffffff"/>
+            <ImageView
+                android:id="@+id/manikcallbtn1"
+                android:layout_width="350dp"
+                android:layout_height="300dp"
+                app:srcCompat="@drawable/manik" />
+
+            <TextView
+                android:id="@+id/ddflklosssfdamanik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="21dp"
+                android:textColor="#ffffff"
+                android:text="
+\t\tName : Manik Das\n
+\t\tTrainer of Graphics Designe\n
+\t\tPhone : 01843167798\n
+\t\tE-mail: d.manik58@yahoo.com\n" />
+            <Button
+                android:id="@+id/manikcallbtn"
+                android:layout_width="250dp"
+                android:layout_height="80dp"
+                android:background="@drawable/callnowbtn"
+                android:layout_gravity="center"
+                />
+            <TextView
+                android:id="@+id/heljkfdlksdsdssdghgsjiofkk"
+                android:layout_width="match_parent"
+                android:layout_height="12dp"
+                android:background="#ffffff"
+                android:textColor="#ffffff"/>
+            <TextView
+                android:id="@+id/ddflklodjhgghjsssfdamanik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="21dp"
+                android:textColor="#ffffff"
+                android:text="
+\t\tName : Nurar Nahar Shahinur\n
+\t\tTrainer of web Designe\n
+\t\tPhone : 01831939225\n
+" />
+            <Button
+                android:id="@+id/naharcallbt"
+                android:layout_width="250dp"
+                android:layout_height="80dp"
+                android:background="@drawable/callnowbtn"
+                android:layout_gravity="center"
+                />
+            <TextView
+                android:id="@+id/hgfjftufredf"
+                android:layout_width="match_parent"
+                android:layout_height="12dp"
+                android:background="#ffffff"
+                android:textColor="#ffffff"/>
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

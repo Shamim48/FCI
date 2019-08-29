@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\jttl\MyApp_1\app\src\main\assets"><file name="gallerypdf.pdf" path="F:\jttl\MyApp_1\app\src\main\assets\gallerypdf.pdf"/><file name="indusrtpdf.pdf" path="F:\jttl\MyApp_1\app\src\main\assets\indusrtpdf.pdf"/><file name="mou.pdf" path="F:\jttl\MyApp_1\app\src\main\assets\mou.pdf"/></source><source path="F:\jttl\MyApp_1\app\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="F:\jttl\MyApp_1\app\src\release\assets"/></dataSet></merger>

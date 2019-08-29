@@ -1,0 +1,51 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.0"
+    defaultConfig {
+        applicationId "com.example.fci.myapp_1"
+        minSdkVersion 19
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+
+    aaptOptions() {
+        cruncherEnabled = false
+    }
+
+    signingConfigs {
+        config {
+            storeFile file('../asd.jks')
+            storePassword '123456'
+            keyAlias 'key0'
+            keyPassword '123456'
+        }
+
+
+    }
+
+
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+   // compile 'com.android.support:appcompat-v7:29.0.0'
+    compile 'com.android.support.constraint:constraint-layout:1.1.3'
+   // compile 'com.android.support:design:29.0.0'
+   // compile 'com.github.barteksc:android-pdf-viewer:3.0.0-beta.3'
+    testCompile 'junit:junit:4.12'
+    implementation 'com.android.support:design:28.0.0'
+}

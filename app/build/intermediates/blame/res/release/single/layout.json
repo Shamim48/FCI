@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_department.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_department.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_thirteenbatch_cst.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_thirteenbatch_cst.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_tct__teacher.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_tct__teacher.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_teacher_attactment.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_teacher_attactment.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_principal.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_principal.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_rubar__scout.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_rubar__scout.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_curriculam.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_curriculam.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\370a42e7d6ca7c3a003db3c70c59e14b020e8811\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_about__seip.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_about__seip.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_clubs.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_clubs.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_classroutine.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_classroutine.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_mou.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_mou.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\370a42e7d6ca7c3a003db3c70c59e14b020e8811\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_tenbatchcst.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_tenbatchcst.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_classct.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_classct.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\370a42e7d6ca7c3a003db3c70c59e14b020e8811\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_campus_map.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_campus_map.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\370a42e7d6ca7c3a003db3c70c59e14b020e8811\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_industry__visit.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_industry__visit.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_gallary.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_gallary.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_girlshostel.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_girlshostel.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_first__tct.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_first__tct.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\370a42e7d6ca7c3a003db3c70c59e14b020e8811\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\370a42e7d6ca7c3a003db3c70c59e14b020e8811\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fci__libary.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_fci__libary.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\370a42e7d6ca7c3a003db3c70c59e14b020e8811\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_dnt__teacher.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_dnt__teacher.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_contact__seip.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_contact__seip.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_blood_donation.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_blood_donation.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\370a42e7d6ca7c3a003db3c70c59e14b020e8811\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_activities.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_activities.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\370a42e7d6ca7c3a003db3c70c59e14b020e8811\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_cst__department.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_cst__department.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_tenbatch__dnt.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_tenbatch__dnt.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_dnt__department.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_dnt__department.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_eleven_dnt.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_eleven_dnt.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_contact__blood.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_contact__blood.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\370a42e7d6ca7c3a003db3c70c59e14b020e8811\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_about__us.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_about__us.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_elevenbatch_cst.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_elevenbatch_cst.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\370a42e7d6ca7c3a003db3c70c59e14b020e8811\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_teacher.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_teacher.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_routine.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_routine.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\370a42e7d6ca7c3a003db3c70c59e14b020e8811\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_tuelvebatchcst.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_tuelvebatchcst.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_second__tct.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_second__tct.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_student_attactment.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_student_attactment.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_rs__teacher.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_rs__teacher.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_dnt__cr.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_dnt__cr.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_tct__department.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_tct__department.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_contact.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_thirteen__dnt.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_thirteen__dnt.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_tct__cr.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_tct__cr.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_result.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_hostel.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_hostel.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_staf.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_staf.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_tuelvebatch__dnt.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_tuelvebatch__dnt.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_aboutfci.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_aboutfci.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_class_routine.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_class_routine.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\370a42e7d6ca7c3a003db3c70c59e14b020e8811\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_cst__teacher.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_cst__teacher.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_cstclasscr.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_cstclasscr.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\370a42e7d6ca7c3a003db3c70c59e14b020e8811\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_boyes_hostel.xml",
+        "source": "F:\\jttl\\MyApp_1\\app\\src\\main\\res\\layout\\activity_boyes_hostel.xml"
+    },
+    {
+        "merged": "F:\\jttl\\MyApp_1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Shamim Ahmed\\.android\\build-cache\\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    }
+]

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+android:background="#161616"
+    tools:context="com.example.fci.myapp_1.Class_routine">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="250dp"
+                android:layout_height="80dp"
+                android:textSize="30dp"
+                android:layout_gravity="center"
+                android:background="@drawable/btn"
+                android:onClick="cst"
+                android:text="C.S.T" />
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="250dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:background="@drawable/btn"
+                android:onClick="dnt"
+                android:textSize="30dp"
+                android:text="D.N.T" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="250dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:background="@drawable/btn"
+                android:textSize="30dp"
+                android:onClick="tct"
+                android:text="T.C.T" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

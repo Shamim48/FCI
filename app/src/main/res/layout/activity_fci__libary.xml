@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cs_hw"
+    tools:context="com.example.fci.myapp_1.FCI_Libary">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView13"
+                android:layout_width="match_parent"
+                android:layout_height="259dp"
+                app:srcCompat="@drawable/libr" />
+
+            <TextView
+                android:id="@+id/textView25"
+                android:layout_width="186dp"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="33dp"
+                android:background="#303F9F"
+                android:text="FCI Library" />
+
+            <TextView
+                android:id="@+id/textView24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="21dp"
+                android:text="\n
+ফেনি কম্পিউটার ইনস্টিটিউটের লাইব্রেরি একটি আদর্শ  লাইব্রেরি ।এই লাইব্রেরিতে ছাত্র ছাত্রীরা মনযোগ সহকারে শান্ত পরিবেষে বই এবং দৈনিক পত্রিকা পড়তে পারে ।লাইব্রেরিতে বসে বই পড়ার জন্য ৫০টি চেয়ার এবং ৮টি টেবিল আছে ।এবং পত্রিকা পড়ার জন্য ২টি টেবিল আছে ।এই লাইব্রেরি তে প্রাই ৫০০০টি বই রয়েছে ।লোহার শেল্ডে বিভিন্ন ধরণের বইয়ের জন্য আলাদা আলাদা বিভাগ আছে ।আমাদের ইনস্টিটিউটের  লাইব্রেরিতে প্রোগ্রামিং, নেটওয়ার্কিং, সাহিত্য, ইতিহাস, সিভিকস, গণিতবিদ, পদার্থবিজ্ঞান, রসায়ন ,ক্রীড়া, জাদু, ভূগোল, প্রাণিবিজ্ঞান ইত্যাদি বিষয়ক বই রয়েছে।এখানে আই টি জগতের  সকল বই রয়েছে ।লাইব্রেরি থেকে বই নিয়ে বাসাই পড়া যাই ।এটি আমাদের ইনস্টিটিউটের প্রথম ফ্লোরে অবস্থিত ।
+" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

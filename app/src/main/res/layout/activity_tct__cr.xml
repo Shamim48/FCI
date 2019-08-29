@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dnttctui"
+    tools:context="com.example.fci.myapp_1.TCT_CR">
+
+
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/first"
+                    android:layout_width="250dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/butoon_gs"
+                    android:fontFamily="sans-serif"
+                    android:lineSpacingExtra="30sp"
+                   android:onClick="tctfirstbatch"
+                    android:text="  first Batch T.C.T "
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:typeface="monospace" />
+
+                <Button
+                    android:id="@+id/second"
+                    android:layout_width="250dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/butoon_gs"
+                    android:text="  Second Batch T.C.T"
+                    android:textSize="18sp"
+                    android:onClick="secondtct"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </ScrollView>
+
+
+
+</android.support.constraint.ConstraintLayout>
